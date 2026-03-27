@@ -109,7 +109,7 @@ export default function Home() {
     return (
         <PageWrapper>
             <TitleBox>
-                <Title>Find Something New</Title>
+                <Title>Find Something Similar</Title>
             </TitleBox>
             <Subtitle>Discover new music, movies, books & more</Subtitle>
             <Form>
